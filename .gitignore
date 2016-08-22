@@ -1,7 +1,0 @@
-#################
-## Moodle-Master
-#################
-
-# Can ignore specific files
-config.php
-moodle.logs
